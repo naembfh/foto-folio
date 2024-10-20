@@ -1,10 +1,13 @@
-import { getDictionary } from "./disctionaries";
+import PhotoList from "@/components/PhotoList";
 
 export default async function Home({params: {lang}}) {
-  const dictionary = await getDictionary(lang);
+  const response = await fetch(`${process.env.BASE_API_URL}/photos`);
+  const photos = await response.json();
+
+  
   return (
    <>
-  {dictionary.followers}
+   <PhotoList photos={photos}></PhotoList>
    </>
   );
 }

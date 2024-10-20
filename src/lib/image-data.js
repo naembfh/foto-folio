@@ -2,7 +2,7 @@ const photos = [
     {
       id: "94a7e01b-8576-4d18-8b84-6ae588db02d9",
       title: "The Beautiful Nature",
-      url: "https://source.unsplash.com/ztpUS4N1xhY",
+      url: "https://unsplash.com/photos/an-aerial-view-of-a-green-island-rGSO_55G564",
       tags: ["nature", "river", "ocean"],
       views: "10M",
       share: "4.56M",
@@ -18,7 +18,7 @@ const photos = [
     {
       id: "de05d078-6f6d-4272-a08f-5a805a23aba4",
       title: "The Beautiful Nature",
-      url: "https://source.unsplash.com/mPFSPqZOO7s",
+      url: "https://unsplash.com/photos/a-body-of-water-with-rocks-and-trees-around-it-fsu0eWIOMTw",
       tags: ["nature", "river", "ocean"],
       views: "10M",
       share: "4.56M",
@@ -34,7 +34,7 @@ const photos = [
     {
       id: "8265198d-e2e1-4221-addc-8244f39fdd62",
       title: "The Beautiful Nature",
-      url: "https://source.unsplash.com/uPEnxrdSKIw",
+      url: "https://unsplash.com/photos/a-view-of-a-sandy-beach-and-the-ocean-xcjzbwULaNQ",
       tags: ["nature", "river", "ocean"],
       views: "10M",
       share: "4.56M",
@@ -50,7 +50,7 @@ const photos = [
     {
       id: "6cf6c10d-8ba8-46d7-b246-0e1fd5e270df",
       title: "The Beautiful Nature",
-      url: "https://source.unsplash.com/hFKZ5-OT9Ys",
+      url: "https://unsplash.com/photos/five-birds-flying-on-the-sea-OD9EOzfSOh0",
       tags: ["nature", "river", "ocean"],
       views: "10M",
       share: "4.56M",
@@ -66,7 +66,7 @@ const photos = [
     {
       id: "a7f14fb2-9b2d-43bb-98af-6c70158e9c55",
       title: "The White Warmth",
-      url: "https://source.unsplash.com/xoTt2fjs7d0",
+      url: "https://unsplash.com/photos/a-white-flower-in-a-field-of-grass-VzZdk3fR0a8",
       tags: ["nature", "flower", "green"],
       views: "6M",
       share: "2.56M",
@@ -82,7 +82,7 @@ const photos = [
     {
       id: "6bea51c4-1123-425f-90c9-9148724872e5",
       title: "The Beautiful Nature",
-      url: "https://source.unsplash.com/Vc2dD4l57og",
+      url: "https://unsplash.com/photos/aerial-view-of-seashore-with-stones-J3ABLQjZQBg",
       tags: ["nature", "river", "ocean"],
       views: "10M",
       share: "4.56M",
@@ -98,7 +98,7 @@ const photos = [
     {
       id: "02983ddd-338d-4382-b0c8-316caa21b4a5",
       title: "The Beautiful Nature",
-      url: "https://source.unsplash.com/hqnQWmIt3cY",
+      url: "https://unsplash.com/photos/rock-formation-on-the-ocean-photography-2LhCDvS_7xs",
       tags: ["nature", "river", "ocean"],
       views: "10M",
       share: "4.56M",
@@ -114,7 +114,7 @@ const photos = [
     {
       id: "552f7d8d-d9eb-4edc-98a9-cec20c90d90c",
       title: "The Beautiful Nature",
-      url: "https://source.unsplash.com/NTGg2rtWDwg",
+      url: "https://unsplash.com/photos/coconut-tree-on-beach-DH_u2aV3nGM",
       tags: ["nature", "river", "ocean"],
       views: "10M",
       share: "4.56M",
@@ -130,7 +130,7 @@ const photos = [
     {
       id: "f4fab2f9-e0cf-4f15-8779-d09d9e6d59bd",
       title: "The Beautiful Nature",
-      url: "https://source.unsplash.com/ztpUS4N1xhY",
+      url: "https://unsplash.com/photos/body-of-water-near-trees-at-daytime-toPRrcyAIUY",
       tags: ["nature", "river", "ocean"],
       views: "10M",
       share: "4.56M",
@@ -146,7 +146,7 @@ const photos = [
     {
       id: "9761a3ea-2c2c-4b6e-a618-a6e4d26cf729",
       title: "The Beautiful Nature",
-      url: "https://source.unsplash.com/LV-NvIcA-Gg",
+      url: "https://unsplash.com/photos/seashore-under-clear-blue-sky-during-daytime-g0Qdolm3K14",
       tags: ["nature", "river", "ocean"],
       views: "10M",
       share: "4.56M",
@@ -162,7 +162,7 @@ const photos = [
     {
       id: "154ca3f8-07ec-464f-9eac-6775ec37bba1",
       title: "The Beautiful Nature",
-      url: "https://source.unsplash.com/0qnRfgnZIsI",
+      url: "https://plus.unsplash.com/premium_photo-1663954865003-43333b9d5925?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
       tags: ["nature", "river", "ocean"],
       views: "10M",
       share: "4.56M",
@@ -178,7 +178,7 @@ const photos = [
     {
       id: "9e396ae7-9ae4-4fec-86e3-4fc52c73b73a",
       title: "The Beautiful Nature",
-      url: "https://source.unsplash.com/mpwF3Mv2UaU",
+      url: "https://unsplash.com/photos/white-clouds-P8VMwYFY-Es",
       tags: ["nature", "river", "ocean"],
       views: "10M",
       share: "4.56M",
@@ -250,6 +250,7 @@ const photos = [
   }
 
   export {
-    getAllPhotos,
-    getPhotoById
+  getAllPhotos,
+  getPhotoById
 };
+
